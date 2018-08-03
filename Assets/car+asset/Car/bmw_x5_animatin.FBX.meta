@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 15fbdd18d7922284e848494ebd850a3d
+timeCreated: 1523346327
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _engine
+    100002: //RootNode
+    100004: body_2
+    100006: capote
+    100008: door_back_L
+    100010: door_back_R
+    100012: door_front_L
+    100014: door_front_R
+    100016: glass_body
+    100018: glass_doorBackL
+    100020: glass_doorBackR
+    100022: glass_doorFrontL
+    100024: glass_doorFrontR
+    100026: glass_trunk
+    100028: seat
+    100030: trunk
+    100032: wheel_1
+    100034: wheel_2
+    100036: wheel_3
+    100038: wheel_4
+    400000: _engine
+    400002: //RootNode
+    400004: body_2
+    400006: capote
+    400008: door_back_L
+    400010: door_back_R
+    400012: door_front_L
+    400014: door_front_R
+    400016: glass_body
+    400018: glass_doorBackL
+    400020: glass_doorBackR
+    400022: glass_doorFrontL
+    400024: glass_doorFrontR
+    400026: glass_trunk
+    400028: seat
+    400030: trunk
+    400032: wheel_1
+    400034: wheel_2
+    400036: wheel_3
+    400038: wheel_4
+    2300000: _engine
+    2300002: //RootNode
+    2300004: body_2
+    2300006: capote
+    2300008: door_back_L
+    2300010: door_back_R
+    2300012: door_front_L
+    2300014: door_front_R
+    2300016: glass_body
+    2300018: glass_doorBackL
+    2300020: glass_doorBackR
+    2300022: glass_doorFrontL
+    2300024: glass_doorFrontR
+    2300026: glass_trunk
+    2300028: seat
+    2300030: trunk
+    2300032: wheel_1
+    2300034: wheel_2
+    2300036: wheel_3
+    2300038: wheel_4
+    3300000: _engine
+    3300002: //RootNode
+    3300004: body_2
+    3300006: capote
+    3300008: door_back_L
+    3300010: door_back_R
+    3300012: door_front_L
+    3300014: door_front_R
+    3300016: glass_body
+    3300018: glass_doorBackL
+    3300020: glass_doorBackR
+    3300022: glass_doorFrontL
+    3300024: glass_doorFrontR
+    3300026: glass_trunk
+    3300028: seat
+    3300030: trunk
+    3300032: wheel_1
+    3300034: wheel_2
+    3300036: wheel_3
+    3300038: wheel_4
+    4300000: _body
+    4300002: _engine
+    4300004: body_2
+    4300006: seat
+    4300008: capote
+    4300010: door_back_L
+    4300012: glass_doorBackL
+    4300014: door_back_R
+    4300016: glass_doorBackR
+    4300018: door_front_L
+    4300020: glass_doorFrontL
+    4300022: door_front_R
+    4300024: glass_doorFrontR
+    4300026: glass_body
+    4300028: trunk
+    4300030: glass_trunk
+    4300032: wheel_1
+    4300034: wheel_2
+    4300036: wheel_3
+    4300038: wheel_4
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02___Default_
+    second: {fileID: 2100000, guid: 5258a1936f7ad4849bfaf80b70667792, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03___Default_
+    second: {fileID: 2100000, guid: 371fdeec8521eb54e80ef95cc95679f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07___Default_
+    second: {fileID: 2100000, guid: eeb25eef77841be49846362f5696cff3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08___Default_
+    second: {fileID: 2100000, guid: 91fa38b7befd6914c8cb1265a186eb70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09___Default_
+    second: {fileID: 2100000, guid: 5b9917b16aab58d47aa4a4293dfc9cc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13___Default_
+    second: {fileID: 2100000, guid: 632075fa9dcc34d4d8e48c1ca11ca62d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default
+    second: {fileID: 2100000, guid: cdbb342c815cf61439f647098de7f501, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 202
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
